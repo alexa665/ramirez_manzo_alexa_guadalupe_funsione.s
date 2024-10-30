@@ -12,4 +12,8 @@ Prueba de envió de código y de screenshot
 ![image](https://github.com/user-attachments/assets/084c1cca-ca2f-4416-9d85-8e7619bda7bb)
 6
 ![image](https://github.com/user-attachments/assets/742e5cf9-f467-4f7d-83df-2044a0984460)
+7
+![image](https://github.com/user-attachments/assets/1d7ffdac-6553-47bb-86f7-c1fabc1e6589)
+8
+![image](https://github.com/user-attachments/assets/89cf4bc5-4be0-4b62-bde1-589f743f79e6)
 
